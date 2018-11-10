@@ -1,6 +1,7 @@
 {
   "pages":[
-    "index/index"
+    "index/index",
+    "webview/index"
   ],
   "window":{
     "backgroundTextStyle":"light",
